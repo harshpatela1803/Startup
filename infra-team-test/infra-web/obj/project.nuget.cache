@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "j5YhqFfOdQkb+UnCVHE0c26csW2EFEuQhcVcID1mkLZBrKkESX63FicSYEvwGDu1k/hsw685WI8Ms99jd+CrNQ==",
+  "success": true,
+  "projectFilePath": "/Users/harshpatel/Desktop/infra-team-test/infra-web/infra-web.csproj",
+  "expectedPackageFiles": [
+    "/Users/harshpatel/.nuget/packages/ben.demystifier/0.4.1/ben.demystifier.0.4.1.nupkg.sha512",
+    "/Users/harshpatel/.nuget/packages/google.protobuf/3.15.5/google.protobuf.3.15.5.nupkg.sha512",
+    "/Users/harshpatel/.nuget/packages/grpc.aspnetcore.server/2.37.0/grpc.aspnetcore.server.2.37.0.nupkg.sha512",
+    "/Users/harshpatel/.nuget/packages/grpc.aspnetcore.server.reflection/2.37.0/grpc.aspnetcore.server.reflection.2.37.0.nupkg.sha512",
+    "/Users/harshpatel/.nuget/packages/grpc.core.api/2.43.0/grpc.core.api.2.43.0.nupkg.sha512",
+    "/Users/harshpatel/.nuget/packages/grpc.net.client/2.43.0/grpc.net.client.2.43.0.nupkg.sha512",
+    "/Users/harshpatel/.nuget/packages/grpc.net.common/2.43.0/grpc.net.common.2.43.0.nupkg.sha512",
+    "/Users/harshpatel/.nuget/packages/grpc.reflection/2.37.0/grpc.reflection.2.37.0.nupkg.sha512",
+    "/Users/harshpatel/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.0.0/microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "/Users/harshpatel/.nuget/packages/microsoft.extensions.logging/2.0.0/microsoft.extensions.logging.2.0.0.nupkg.sha512",
+    "/Users/harshpatel/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.16/microsoft.extensions.logging.abstractions.3.1.16.nupkg.sha512",
+    "/Users/harshpatel/.nuget/packages/microsoft.extensions.options/2.0.0/microsoft.extensions.options.2.0.0.nupkg.sha512",
+    "/Users/harshpatel/.nuget/packages/microsoft.extensions.primitives/2.0.0/microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "/Users/harshpatel/.nuget/packages/oneof/3.0.216/oneof.3.0.216.nupkg.sha512",
+    "/Users/harshpatel/.nuget/packages/pulumi/3.56.2/pulumi.3.56.2.nupkg.sha512",
+    "/Users/harshpatel/.nuget/packages/pulumi.aws/6.0.2/pulumi.aws.6.0.2.nupkg.sha512",
+    "/Users/harshpatel/.nuget/packages/pulumi.protobuf/3.20.1/pulumi.protobuf.3.20.1.nupkg.sha512",
+    "/Users/harshpatel/.nuget/packages/semver/2.1.0/semver.2.1.0.nupkg.sha512",
+    "/Users/harshpatel/.nuget/packages/serilog/2.10.0/serilog.2.10.0.nupkg.sha512",
+    "/Users/harshpatel/.nuget/packages/serilog.extensions.logging/3.0.1/serilog.extensions.logging.3.0.1.nupkg.sha512",
+    "/Users/harshpatel/.nuget/packages/serilog.sinks.console/4.0.1/serilog.sinks.console.4.0.1.nupkg.sha512",
+    "/Users/harshpatel/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/harshpatel/.nuget/packages/system.reflection.metadata/5.0.0/system.reflection.metadata.5.0.0.nupkg.sha512",
+    "/Users/harshpatel/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

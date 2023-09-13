@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EVNRyk5eDsOm5JXVyWXlAAANHHEdZMCt7fVFOx9kxBg=",
+  "Source": "infra-api",
+  "BasePath": "_content/infra-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

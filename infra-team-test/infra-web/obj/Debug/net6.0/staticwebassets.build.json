@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YjEGNFvuSYJqO28X4fS8gF3HD3XOD/12NhRYL/np7/0=",
+  "Source": "infra-web",
+  "BasePath": "_content/infra-web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
